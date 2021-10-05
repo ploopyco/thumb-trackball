@@ -1,10 +1,19 @@
-# The Future Home of the Ploopy Thumb Trackball*
+# The Ploopy Thumb Trackball
 
-![The Ploopy Thumb Trackball](ploopy-thumb.png)
+![The Ploopy Thumb Trackball](thumb.jpg)
 
-This is the future home of the Ploopy Thumb Trackball, a high-performance thumb trackball with similar components and performance to [our original](https://github.com/ploopyco/trackball).
+By some stroke of luck, you've made your way here. The Ploopy Thumb Trackball. Your life will never be the same.
 
-If you've got a printer and some free time, it'd be great if you grabbed a copy of the *shape-test.stl* file, printed it out, and gave it a spin. And, drop us some feedback, at **contact (at) ploopy [dot] co**.
+This repository contains all of the design and production files necessary to make a Ploopy Thumb Trackball. We've also included some kick-ass documentation in the Wiki on how to get it made, assemble it, and program it.
 
+What are you waiting for? Your new life awaits.
 
-**Still working on a name. Might change later.*
+## QMK?!
+
+Kits bought from the [Ploopy store](https://ploopy.co/product-category/trackball/thumb/) come with QMK preloaded. Check out the Wiki for instructions on how to load new firmware onto your device. (It's super easy!)
+
+The firmware hex file that ships with all Nanos is included in this repository as well, as `ploopyco_trackball_thumb_rev1_001_via.hex`.
+
+## Under what license is this released?
+
+As per QMK's licensing requirements, the firmware for the Ploopy Thumb Trackball is released under GPLv3. Hardware design files, including electronics and mechanical files, are released under OHL CERN v2-S. Check the `LICENSE` file for full license text.
