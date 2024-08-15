@@ -1,6 +1,6 @@
 ## Description
 
-This is @keyboard-magpie 's modification of the top shell of the ploopy thumb trackball to convert it to use bearing-transfer-units.
+This is @keyboard-magpie 's modification of the top shell of the ploopy thumb trackball to convert it to use ball-transfer-units.
 
 It should be able to be used with the standard baseplate file. I have also included a 5 degree tilt base file with small cutouts for different BTUs. STEP files for further editing are included also.
 
