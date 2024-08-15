@@ -16,4 +16,4 @@ Included BTU sleeve print file which lets you use these steel BTUs: [https://www
 
 Links checked and working as of 15/Aug/2024.
 
-![https://imgur.com/a/966WfLx](https://imgur.com/a/966WfLx)
+![https://imgur.com/a/966WfLx](https://i.imgur.com/6D8tb1K.jpeg)
