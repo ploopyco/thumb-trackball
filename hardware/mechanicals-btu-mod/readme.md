@@ -2,7 +2,9 @@
 
 This is @keyboard-magpie 's modification of the top shell of the ploopy thumb trackball to convert it to use ball-transfer-units.
 
-It should be able to be used with the standard baseplate file. I have also included a 5 degree tilt base file with small cutouts for different BTUs. STEP files for further editing are included also.
+This design is intended to be compatable with the standard baseplate file. 
+
+The modification also includes a 5 degree tilt base file with small cutouts for different BTUs. STEP files for further editing are included also.
 
 ### Modification origin
 
@@ -12,7 +14,7 @@ Originally discussed at  [https://www.reddit.com/r/ploopy/comments/r3cgjc/first_
 
 POM BTUs from here:  [https://amzn.eu/d/6OjTR17](https://amzn.eu/d/6OjTR17) 
   
-Included BTU sleeve print file which lets you use these steel BTUs: [https://www.aliexpress.com/item/1005003066404497.html](https://www.aliexpress.com/item/1005003066404497.html)
+Included BTU sleve print file allows the use of these steel BTUs: [https://www.aliexpress.com/item/1005003066404497.html](https://www.aliexpress.com/item/1005003066404497.html)
 
 Links checked and working as of 15/Aug/2024.
 
